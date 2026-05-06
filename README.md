@@ -2,7 +2,7 @@
 
 ## A DS 4002 Case Study by Praggnya Kanungo
 
-![Tree Classification Banner](https://images.unsplash.com/photo-1441974231531-c6227db76b6e)
+![Tree Classification Banner]((https://unsplash.com/photos/green-leaf-tree-under-blue-sky-tGTVxeOr_Rs))
 
 ---
 
