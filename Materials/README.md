@@ -3,8 +3,8 @@
 In this `Materials` folder, you will find many different resources that will hopefully aid students in achieving their goal of completing this case study. Here are all the links to the articles in this directory:
 
 ## Data Context
-Link to article: https://www.sciencedirect.com/science/article/pii/S0168169923002405?via%3Dihub
-Link to dataset website: https://ytt917251944.github.io/dataset_jekyll/
+- Link to article: https://www.sciencedirect.com/science/article/pii/S0168169923002405?via%3Dihub
+- Link to dataset website: https://ytt917251944.github.io/dataset_jekyll/
 
 ## Documentations
 Links to articles:
