@@ -67,8 +67,8 @@ In the `Scripts` directory, you will find the following scripts:
 The following sources were consulted in creating this case study (and the project that is it based on):
 
 
-[1]	CPRE. (n.d.). Tree time: 20 facts about trees you might not know. Tree time: 20 facts about trees you might not know
-[2]	Gianpiero Andrenacci, “A Simple Image Classifier With a Python Neural Network,” Medium, 3 Nov. 2024, https://medium.com/data-bistrot/a-simple-image-classifier-with-a-python-neural-network-82a5522fe48b
-[3] 	Jacob Murel, Eda Kavlakoglu, “What is Data Augmentation,” IBM, ​​https://www.ibm.com/think/topics/data-augmentation
-[4]	Tingting Yang, Suyin Zhou, Zhijie Huang, Aijun Xu, Junhua Ye, Jianxin Yin, Urban street tree dataset for image classification and instance segmentation, Computers and Electronics in Agriculture, Volume 209, 2023, 107852, ISSN 0168-1699, https://doi.org/10.1016/j.compag.2023.107852.
+- CPRE. (n.d.). Tree time: 20 facts about trees you might not know. Tree time: 20 facts about trees you might not know
+- Gianpiero Andrenacci, “A Simple Image Classifier With a Python Neural Network,” Medium, 3 Nov. 2024, https://medium.com/data-bistrot/a-simple-image-classifier-with-a-python-neural-network-82a5522fe48b
+- Jacob Murel, Eda Kavlakoglu, “What is Data Augmentation,” IBM, ​​https://www.ibm.com/think/topics/data-augmentation
+- Tingting Yang, Suyin Zhou, Zhijie Huang, Aijun Xu, Junhua Ye, Jianxin Yin, Urban street tree dataset for image classification and instance segmentation, Computers and Electronics in Agriculture, Volume 209, 2023, 107852, ISSN 0168-1699, https://doi.org/10.1016/j.compag.2023.107852.
 
