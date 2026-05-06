@@ -2,10 +2,6 @@
 
 ## A DS 4002 Case Study by Praggnya Kanungo
 
-![Tree Classification Banner]((https://unsplash.com/photos/green-leaf-tree-under-blue-sky-tGTVxeOr_Rs))
-
----
-
 # Quick Overview
 
 This case study looks at how we can use convolutional neural networks (CNNs) to classify tree species from images. Students will create and ensure high performance of their model based on a real world dataset of tree images. Then they will use images they take around Charlottesville to test their model on.
