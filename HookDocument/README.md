@@ -1,1 +1,0 @@
-This is the hook document for this case study.
