@@ -1,1 +1,0 @@
-This is the rubric for the deliverables for this case study.
